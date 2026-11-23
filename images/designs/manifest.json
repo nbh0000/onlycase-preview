@@ -1,121 +1,367 @@
 [
   {
-    "file": "corgi-picnic.jpg",
-    "slug": "corgi-picnic",
-    "name": "코기 피크닉",
-    "summary": "체크 돗자리에 앉은 웰시코기와 딸기",
+    "file": "wavy-checker.jpg",
+    "print": "4k/wavy-checker.jpg",
+    "slug": "wavy-checker",
+    "name": "물결 체커 데이지",
+    "summary": "라벤더·민트 물결 체커 위 웃는 데이지",
     "tags": [
-      "dog",
-      "animal"
-    ]
+      "pattern",
+      "retro",
+      "lovely"
+    ],
+    "featured": true
   },
   {
-    "file": "shiba-watercolor.jpg",
-    "slug": "shiba-watercolor",
-    "name": "낮잠 시바",
-    "summary": "몸을 말고 잠든 시바견 수채화",
+    "file": "smiley-daisy.jpg",
+    "print": "4k/smiley-daisy.jpg",
+    "slug": "smiley-daisy",
+    "name": "스마일 데이지",
+    "summary": "크림 바탕에 웃는 얼굴 70년대 데이지",
     "tags": [
-      "dog",
-      "animal"
-    ]
-  },
-  {
-    "file": "puppy-pattern.jpg",
-    "slug": "puppy-pattern",
-    "name": "퍼피 패턴",
-    "summary": "여러 견종 강아지 얼굴을 반복한 패턴",
-    "tags": [
-      "dog",
-      "animal",
+      "flower",
+      "retro",
       "pattern"
-    ]
+    ],
+    "featured": false
   },
   {
-    "file": "dachshund-stripe.jpg",
-    "slug": "dachshund-stripe",
-    "name": "닥스훈트 스트라이프",
-    "summary": "파란 줄무늬 위를 걷는 닥스훈트",
+    "file": "cherry-gingham.jpg",
+    "print": "4k/cherry-gingham.jpg",
+    "slug": "cherry-gingham",
+    "name": "체리 깅엄",
+    "summary": "빨간 깅엄 체크 위 반짝이는 체리",
     "tags": [
-      "dog",
-      "animal"
-    ]
+      "food",
+      "pattern",
+      "lovely"
+    ],
+    "featured": true
   },
   {
-    "file": "cheese-cat-window.jpg",
-    "slug": "cheese-cat-window",
-    "name": "창가 치즈냥",
-    "summary": "햇살 드는 창가에 앉은 치즈 고양이",
+    "file": "strawberry-milk.jpg",
+    "print": "4k/strawberry-milk.jpg",
+    "slug": "strawberry-milk",
+    "name": "딸기우유",
+    "summary": "분홍 바탕에 작은 딸기와 우유 방울",
     "tags": [
-      "cat",
-      "animal"
-    ]
-  },
-  {
-    "file": "black-cat-moon.jpg",
-    "slug": "black-cat-moon",
-    "name": "달밤 검은 고양이",
-    "summary": "보름달 아래 지붕 위 검은 고양이",
-    "tags": [
-      "cat",
-      "animal"
-    ]
-  },
-  {
-    "file": "cat-pattern.jpg",
-    "slug": "cat-pattern",
-    "name": "털실 고양이 패턴",
-    "summary": "털실과 노는 고양이들을 반복한 패턴",
-    "tags": [
-      "cat",
-      "animal",
+      "food",
+      "lovely",
       "pattern"
-    ]
+    ],
+    "featured": false
   },
   {
-    "file": "cat-loaf-pop.jpg",
-    "slug": "cat-loaf-pop",
-    "name": "식빵 고양이 팝",
-    "summary": "굵은 선으로 그린 식빵 자세 흰 고양이",
+    "file": "coquette-ribbon.jpg",
+    "print": "4k/coquette-ribbon.jpg",
+    "slug": "coquette-ribbon",
+    "name": "새틴 리본",
+    "summary": "연분홍 새틴 리본과 진주",
     "tags": [
-      "cat",
-      "animal"
-    ]
+      "lovely",
+      "pattern"
+    ],
+    "featured": false
   },
   {
-    "file": "rabbit-garden.jpg",
-    "slug": "rabbit-garden",
-    "name": "당근밭 토끼",
-    "summary": "당근과 데이지 사이의 흰 토끼",
+    "file": "pink-leopard.jpg",
+    "print": "4k/pink-leopard.jpg",
+    "slug": "pink-leopard",
+    "name": "핑크 레오파드",
+    "summary": "분홍 톤 레오파드 무늬",
     "tags": [
-      "animal"
-    ]
+      "pattern",
+      "retro"
+    ],
+    "featured": false
   },
   {
-    "file": "penguin-ice.jpg",
-    "slug": "penguin-ice",
-    "name": "얼음 위 펭귄",
-    "summary": "얼음 조각 위 작은 펭귄 세 마리",
+    "file": "chrome-heart.jpg",
+    "print": "4k/chrome-heart.jpg",
+    "slug": "chrome-heart",
+    "name": "크롬 하트",
+    "summary": "라일락 바탕에 떠 있는 은빛 3D 하트",
     "tags": [
-      "animal"
-    ]
+      "retro",
+      "lovely"
+    ],
+    "featured": true
   },
   {
-    "file": "hamster-snack.jpg",
-    "slug": "hamster-snack",
-    "name": "해바라기씨 햄스터",
-    "summary": "해바라기씨를 든 햄스터",
+    "file": "aurora.jpg",
+    "print": "4k/aurora.jpg",
+    "slug": "aurora",
+    "name": "오로라",
+    "summary": "보라·청록·살구빛이 번지는 그라데이션",
     "tags": [
-      "animal"
-    ]
+      "minimal",
+      "art"
+    ],
+    "featured": false
   },
   {
-    "file": "tulip-field.jpg",
-    "slug": "tulip-field",
-    "name": "튤립 들판",
-    "summary": "분홍·빨강·노랑 튤립이 핀 봄 들판",
+    "file": "blue-marble.jpg",
+    "print": "4k/blue-marble.jpg",
+    "slug": "blue-marble",
+    "name": "블루 마블",
+    "summary": "흰 대리석에 흐르는 파랑·금빛 결",
+    "tags": [
+      "minimal",
+      "art"
+    ],
+    "featured": false
+  },
+  {
+    "file": "pressed-flowers.jpg",
+    "print": "4k/pressed-flowers.jpg",
+    "slug": "pressed-flowers",
+    "name": "압화",
+    "summary": "한지 위에 눌러 말린 들꽃과 잎",
+    "tags": [
+      "flower",
+      "minimal"
+    ],
+    "featured": false
+  },
+  {
+    "file": "vintage-botanical.jpg",
+    "print": "4k/vintage-botanical.jpg",
+    "slug": "vintage-botanical",
+    "name": "빈티지 식물도감",
+    "summary": "누런 종이 위 고사리와 장미 도감 그림",
+    "tags": [
+      "flower",
+      "art"
+    ],
+    "featured": false
+  },
+  {
+    "file": "oil-flower-vase.jpg",
+    "print": "4k/oil-flower-vase.jpg",
+    "slug": "oil-flower-vase",
+    "name": "유화 꽃병",
+    "summary": "붓자국이 두꺼운 꽃병 유화",
+    "tags": [
+      "flower",
+      "art"
+    ],
+    "featured": true
+  },
+  {
+    "file": "sunflowers.jpg",
+    "print": "4k/sunflowers.jpg",
+    "slug": "sunflowers",
+    "name": "해바라기 들판",
+    "summary": "파란 여름 하늘 아래 해바라기",
     "tags": [
       "flower",
       "scenery"
-    ]
+    ],
+    "featured": false
+  },
+  {
+    "file": "cloud-sky.jpg",
+    "print": "4k/cloud-sky.jpg",
+    "slug": "cloud-sky",
+    "name": "몽글 구름",
+    "summary": "맑은 하늘색 위 뭉게구름",
+    "tags": [
+      "scenery",
+      "minimal"
+    ],
+    "featured": true
+  },
+  {
+    "file": "starry-night.jpg",
+    "print": "4k/starry-night.jpg",
+    "slug": "starry-night",
+    "name": "별 헤는 밤",
+    "summary": "언덕 위로 별똥별이 지나는 남색 밤하늘",
+    "tags": [
+      "scenery"
+    ],
+    "featured": false
+  },
+  {
+    "file": "great-wave.jpg",
+    "print": "4k/great-wave.jpg",
+    "slug": "great-wave",
+    "name": "파도 목판화",
+    "summary": "남색과 미색으로 새긴 목판화풍 파도",
+    "tags": [
+      "art",
+      "scenery"
+    ],
+    "featured": false
+  },
+  {
+    "file": "minhwa-tiger.jpg",
+    "print": "4k/minhwa-tiger.jpg",
+    "slug": "minhwa-tiger",
+    "name": "민화 호랑이",
+    "summary": "소나무 아래 까치와 마주한 민화 호랑이",
+    "tags": [
+      "korean",
+      "animal",
+      "art"
+    ],
+    "featured": true
+  },
+  {
+    "file": "bojagi.jpg",
+    "print": "4k/bojagi.jpg",
+    "slug": "bojagi",
+    "name": "조각보",
+    "summary": "옥색·산호색 비단을 이어 붙인 조각보",
+    "tags": [
+      "korean",
+      "pattern"
+    ],
+    "featured": false
+  },
+  {
+    "file": "bear-doodle.jpg",
+    "print": "4k/bear-doodle.jpg",
+    "slug": "bear-doodle",
+    "name": "곰돌이 낙서",
+    "summary": "크림 바탕에 손으로 그린 곰과 하트",
+    "tags": [
+      "animal",
+      "lovely",
+      "pattern"
+    ],
+    "featured": false
+  },
+  {
+    "file": "bichon-3d.jpg",
+    "print": "4k/bichon-3d.jpg",
+    "slug": "bichon-3d",
+    "name": "3D 비숑",
+    "summary": "하늘색 바탕의 복슬복슬 3D 비숑",
+    "tags": [
+      "animal",
+      "lovely"
+    ],
+    "featured": true
+  },
+  {
+    "file": "clay-cats.jpg",
+    "print": "4k/clay-cats.jpg",
+    "slug": "clay-cats",
+    "name": "클레이 고양이",
+    "summary": "점토로 빚은 치즈·회색·삼색 고양이",
+    "tags": [
+      "animal",
+      "lovely"
+    ],
+    "featured": false
+  },
+  {
+    "file": "summer-fruits.jpg",
+    "print": "4k/summer-fruits.jpg",
+    "slug": "summer-fruits",
+    "name": "여름 과일",
+    "summary": "수박·레몬·라임 조각 패턴",
+    "tags": [
+      "food",
+      "pattern"
+    ],
+    "featured": false
+  },
+  {
+    "file": "butterfly-collage.jpg",
+    "print": "4k/butterfly-collage.jpg",
+    "slug": "butterfly-collage",
+    "name": "나비 콜라주",
+    "summary": "빈티지 나비를 겹쳐 붙인 콜라주",
+    "tags": [
+      "art",
+      "retro"
+    ],
+    "featured": false
+  },
+  {
+    "file": "abstract-cutout.jpg",
+    "print": "4k/abstract-cutout.jpg",
+    "slug": "abstract-cutout",
+    "name": "컷아웃 추상",
+    "summary": "코발트·코랄·머스터드 종이 오리기",
+    "tags": [
+      "art",
+      "minimal"
+    ],
+    "featured": false
+  },
+  {
+    "file": "line-face.jpg",
+    "print": "4k/line-face.jpg",
+    "slug": "line-face",
+    "name": "원라인 드로잉",
+    "summary": "한 줄로 그린 얼굴과 꽃",
+    "tags": [
+      "minimal",
+      "art"
+    ],
+    "featured": false
+  },
+  {
+    "file": "tie-dye.jpg",
+    "print": "4k/tie-dye.jpg",
+    "slug": "tie-dye",
+    "name": "파스텔 타이다이",
+    "summary": "분홍·라벤더·하늘색 소용돌이 염색",
+    "tags": [
+      "retro",
+      "pattern"
+    ],
+    "featured": false
+  },
+  {
+    "file": "flame-checker.jpg",
+    "print": "4k/flame-checker.jpg",
+    "slug": "flame-checker",
+    "name": "불꽃 체커",
+    "summary": "흑백 체커 위 빨간 레트로 불꽃",
+    "tags": [
+      "retro",
+      "pattern"
+    ],
+    "featured": false
+  },
+  {
+    "file": "tulip-pastel.jpg",
+    "print": "4k/tulip-pastel.jpg",
+    "slug": "tulip-pastel",
+    "name": "오일파스텔 튤립",
+    "summary": "유리 꽃병에 꽂힌 크레파스 튤립",
+    "tags": [
+      "flower",
+      "art"
+    ],
+    "featured": false
+  },
+  {
+    "file": "pool-water.jpg",
+    "print": "4k/pool-water.jpg",
+    "slug": "pool-water",
+    "name": "수영장 물결",
+    "summary": "햇빛이 일렁이는 청록 수영장 물",
+    "tags": [
+      "scenery",
+      "minimal"
+    ],
+    "featured": false
+  },
+  {
+    "file": "bakery.jpg",
+    "print": "4k/bakery.jpg",
+    "slug": "bakery",
+    "name": "베이커리",
+    "summary": "크루아상·베이글·프레첼 패턴",
+    "tags": [
+      "food",
+      "pattern"
+    ],
+    "featured": false
   }
 ]
